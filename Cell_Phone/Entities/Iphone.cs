@@ -1,4 +1,6 @@
 ﻿using Cell_Phone.Interface;
+using Cell_Phone.Messages;
+using Cell_Phone.Services;
 using Cell_Phone.Strings;
 using System;
 using System.Collections.Generic;
@@ -18,7 +20,7 @@ namespace Cell_Phone.Entities
            : base(numberPhone, model, iMEI, memory)
         {
             AddNewAccoun(email, password);
-            SecurityId = null;
+            SecurityId = 1234;
         }
 
         public void AddNewAccoun(string email, string password)
@@ -57,7 +59,15 @@ namespace Cell_Phone.Entities
         {
             if (SecurityId != null)
             {
-
+                int security = ParseCheckService.TryParseIntCheck(StringLogMessages.DigitTheKeySecurity);
+                if (security == SecurityId)
+                {
+                    MessagesCustom.MessageAndClearKeyEnd($"{StringLogMessages.InstalApp} {name}");
+                }
+                else
+                {
+                    MessagesCustom.MessageAndClear(StringErrorMessages.PasswordInvalid);
+                }
             }
         }
     }

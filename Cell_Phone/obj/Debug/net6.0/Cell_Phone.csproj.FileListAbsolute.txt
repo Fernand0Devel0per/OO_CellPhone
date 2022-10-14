@@ -1,0 +1,15 @@
+C:\Users\fhlot\Desktop\cell_phone_oo\Cell_Phone\obj\Debug\net6.0\Cell_Phone.csproj.AssemblyReference.cache
+C:\Users\fhlot\Desktop\cell_phone_oo\Cell_Phone\obj\Debug\net6.0\Cell_Phone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fhlot\Desktop\cell_phone_oo\Cell_Phone\obj\Debug\net6.0\Cell_Phone.AssemblyInfoInputs.cache
+C:\Users\fhlot\Desktop\cell_phone_oo\Cell_Phone\obj\Debug\net6.0\Cell_Phone.AssemblyInfo.cs
+C:\Users\fhlot\Desktop\cell_phone_oo\Cell_Phone\obj\Debug\net6.0\Cell_Phone.csproj.CoreCompileInputs.cache
+C:\Users\fhlot\Desktop\cell_phone_oo\Cell_Phone\bin\Debug\net6.0\Cell_Phone.exe
+C:\Users\fhlot\Desktop\cell_phone_oo\Cell_Phone\bin\Debug\net6.0\Cell_Phone.deps.json
+C:\Users\fhlot\Desktop\cell_phone_oo\Cell_Phone\bin\Debug\net6.0\Cell_Phone.runtimeconfig.json
+C:\Users\fhlot\Desktop\cell_phone_oo\Cell_Phone\bin\Debug\net6.0\Cell_Phone.dll
+C:\Users\fhlot\Desktop\cell_phone_oo\Cell_Phone\bin\Debug\net6.0\Cell_Phone.pdb
+C:\Users\fhlot\Desktop\cell_phone_oo\Cell_Phone\obj\Debug\net6.0\Cell_Phone.dll
+C:\Users\fhlot\Desktop\cell_phone_oo\Cell_Phone\obj\Debug\net6.0\refint\Cell_Phone.dll
+C:\Users\fhlot\Desktop\cell_phone_oo\Cell_Phone\obj\Debug\net6.0\Cell_Phone.pdb
+C:\Users\fhlot\Desktop\cell_phone_oo\Cell_Phone\obj\Debug\net6.0\Cell_Phone.genruntimeconfig.cache
+C:\Users\fhlot\Desktop\cell_phone_oo\Cell_Phone\obj\Debug\net6.0\ref\Cell_Phone.dll
